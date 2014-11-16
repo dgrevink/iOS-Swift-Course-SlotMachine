@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-struct slot {
+struct Slot {
     var value = 0
     var image = UIImage(named: "Ace")
     var isRed = true
